@@ -10,14 +10,14 @@ body {
   background-repeat: no-repeat;
   position: center;
   background-size: cover;
-  height: 400px;
+  height: 60vh;
 }
 
 #cover .container-fluid {
   background-image: url(../images/Megaman.png), url(../images/Zero.png);
   background-repeat: no-repeat;
   background-size: 70vw, 110vw;
-  height: 400px;
+  height: 60vh;
   background-position: 0 0, 30vw 0;
 }
 
@@ -34,8 +34,8 @@ body {
 
 .tag-line {
   font-family: "Orbitron", sans-serif;
-  margin-top: -4%;
-  margin-bottom: 2%;
+  margin-top: -3.5vh;
+  margin-bottom: 4vh;
   text-align: center;
   font-size: 50px;
   color: #051b53;
