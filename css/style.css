@@ -1,0 +1,154 @@
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#cover {
+  background-image: url(../images/background2.png);
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover;
+  height: 400px;
+  border-bottom: 8px solid #d62d21;
+}
+
+/* Games Section */
+#games {
+  border-top: 8px solid #d62d21;
+  font-family: "Montserrat", sans-serif;
+  padding: 5rem 0;
+  background-color: #fff;
+  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+  border-bottom: 8px solid #d62d21;
+}
+
+.tag-line {
+  font-family: "Orbitron", sans-serif;
+  margin-top: -4%;
+  margin-bottom: 2%;
+  text-align: center;
+  font-size: 50px;
+  color: #051b53;
+}
+
+.date {
+  text-align: center;
+  font-size: 24px;
+  color: #d62d21;
+  font-weight: bold;
+}
+
+.covers1 {
+  width: 55%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 5px solid #d62d21;
+}
+
+.covers2 {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 5px solid #d62d21;
+}
+
+.covers3 {
+  width: 42%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 5px solid #d62d21;
+}
+
+.steam {
+  margin-bottom: -2%;
+  text-align: center;
+  font-size: 27px;
+  color: #051b53;
+}
+
+.steam-link:hover {
+  color: #d62d21;
+}
+
+/* Trailer Section */
+#trailer {
+  font-family: "Montserrat", sans-serif;
+  margin-top: -1%;
+  padding-top: 2%;
+  border-bottom: 8px solid #d62d21;
+}
+
+.warning1 {
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  font-size: 3vw;
+  font-weight: 800;
+  color: #d62d21;
+  margin-bottom: 2%;
+}
+
+.warning2 {
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  font-size: 3vw;
+  font-weight: 800;
+  color: #d62d21;
+  margin-top: 2%;
+}
+
+.container {
+  width: 65%;
+}
+
+/* Quotes Section */
+#qoutes {
+  font-family: "Montserrat", sans-serif;
+  border-bottom: 8px solid #d62d21;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #fff;
+  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+}
+
+.fav-qoutes {
+  font-family: "Orbitron", sans-serif;
+  padding-top: 2%;
+  text-align: center;
+  font-size: 45px;
+  color: #051b53;
+}
+
+.container ul {
+  color: #d62d21;
+}
+
+.container ul li {
+  margin: 45px 0;
+}
+
+.container ul li:hover {
+  color: #051b53;
+}
+
+.red {
+  color: #d62d21;
+}
+
+.copyright {
+  font-family: "Montserrat", sans-serif;
+  color: #051b53;
+  border-bottom: 8px solid #d62d21;
+  padding-bottom: 1vh;
+}
+
+.copyright a {
+  color: #d62d21;
+}
+
+.footer{
+  margin-bottom: -4vh;
+}
